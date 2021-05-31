@@ -24,3 +24,5 @@ Puedes encontrarme en la web 🌎:
 - Red Social <a href="https://www.instagram.com/daniel_rivero09/">Instagram</a>🤓
 - Red Trabajo <a href="https://www.linkedin.com/in/humberto-rivero-rivero-castro/">LinkedIn</a>💼
 
+![Humberto Rivero Desarrollador FrontEnd](https://user-images.githubusercontent.com/63797901/120249337-e7610700-c250-11eb-93f8-14199f4bdc93.png)
+
