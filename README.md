@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hola 👋
 
-Mi nombre es Humberto Rivero 😄 soy programador front-end autodidacta, manejo tecnologias como HTML, CSS, Javascript y React
+Mi nombre es Humberto Rivero 😊 soy programador front-end autodidacta, manejo tecnologias como HTML, CSS, Javascript y React
 
 Puedes encontrarme en la web 🌎:
 - Mi pagina Web <a href="https://confident-engelbart-f76e9c.netlify.app/">Portafolio</a>🚀
