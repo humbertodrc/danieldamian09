@@ -27,7 +27,7 @@ Puedes encontrarme en la web 🌎:
 ![Humberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieldamian09&show_icons=true&theme=dark)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieldamian09&bg_color=000000&text_color=FFFFFF&title_color=159E4A&langs_count=10&card_width=1000&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieldamian09&bg_color=000000&text_color=FFFFFF&title_color=159E4A&langs_count=10&card_width=500&layout=compact)
 
 
 
