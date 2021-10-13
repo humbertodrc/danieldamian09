@@ -24,9 +24,9 @@ Puedes encontrarme en la web 🌎:
 - Red Social <a href="https://www.instagram.com/daniel_rivero09/">Instagram</a>📷
 - Red Trabajo <a href="https://www.linkedin.com/in/humberto-rivero-rivero-castro/">LinkedIn</a>💼
 
-<div align=”center”> 
+
 ![Humberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieldamian09&show_icons=true&theme=dark)
-</div>
+
 
 
 
