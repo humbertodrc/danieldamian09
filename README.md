@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hola, Soy Humberto Rivero 👋
 
-Soy programador front-end autodidacta, manejo tecnologias como HTML, CSS, Javascript y React
+Programador front-end autodidacta, manejo tecnologias como HTML, CSS, Javascript y React
 
 <h3>Encuentrenme en:</h3>
 
