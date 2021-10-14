@@ -78,6 +78,11 @@ Programador front-end autodidacta, manejo tecnologias como HTML, CSS, Javascript
           src="https://user-images.githubusercontent.com/63797901/137370345-3a5893dd-ad9e-4e6e-a4ea-74306beecb45.png"
           style="max-width: 100%;">
     </p>
+    <br>
+    <br>
+    <p align="center">
+      <img align="center" alt="developer" src="https://user-images.githubusercontent.com/63797901/137372016-b5a1c94c-75a8-46b9-afa1-ea3893e094a3.gif">
+  </p>
 
 
 <!-- <p align="center">
