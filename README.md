@@ -39,7 +39,7 @@ Programador front-end autodidacta, manejo tecnologias como HTML, CSS, Javascript
   <br>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=danieldamian09&show_icons=true&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=danieldamian09&show_icons=true&theme=tokyonight" />
 </p>
 
 
