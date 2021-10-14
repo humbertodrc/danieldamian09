@@ -15,14 +15,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hola 👋
+# Hola, Soy Humberto Rivero 👋
 
-Mi nombre es Humberto Rivero 😊 soy programador front-end autodidacta, manejo tecnologias como HTML, CSS, Javascript y React
+Soy programador front-end autodidacta, manejo tecnologias como HTML, CSS, Javascript y React
 
-Puedes encontrarme en la web 🌎:
-- Mi pagina Web <a href="https://humbertorivero.netlify.app/">Portafolio</a>🚀
-- Red Social <a href="https://www.instagram.com/daniel_rivero09/">Instagram</a>📷
-- Red Trabajo <a href="https://www.linkedin.com/in/humberto-rivero-rivero-castro/">![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+<h3>Encuentrenme en:</h3>
+
+<p>
+    <a href="https://humbertorivero.netlify.app/">
+      <img align="left" alt="" width="22px"
+        src="https://user-images.githubusercontent.com/63797901/137363513-f5825321-e9c1-4b15-89fc-f2e518689c02.png" style="max-width: 100%;">
+    </a>
+    <a href="https://www.linkedin.com/in/humberto-rivero-rivero-castro/">
+      <img align="left" alt="" width="22px"
+        src="https://user-images.githubusercontent.com/63797901/137363364-437f2ea4-8840-493c-8b2a-9ec438a00538.png" style="max-width: 100%;">
+    </a>
+    <a href="https://www.instagram.com/mundo_javascript/" rel="nofollow">
+      <img align="left" alt="" width="22px"
+        src="https://user-images.githubusercontent.com/63797901/137363602-8be93ef1-d169-4612-8c1d-74a68a22fdc8.png" style="max-width: 100%;">
+    </a>
+  </p>
+  <br>
+  <br>
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=danieldamian09&show_icons=true&theme=dark" />
