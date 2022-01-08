@@ -46,6 +46,7 @@ muy bien mis tareas.
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=danieldamian09&show_icons=true&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldamian09&layout=compact&theme=tokyonight" />
 </p>
 
  <h3>Lenguajes y Herramientas:</h3>
