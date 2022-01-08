@@ -39,7 +39,7 @@ Programador front-end autodidacta, manejo tecnologias como HTML, CSS, Javascript
   <br>
   
 <p align="center">
-  [![wakatime](https://wakatime.com/badge/user/691f43ed-3a10-41af-b5e8-294647115f16.svg)](https://wakatime.com/@691f43ed-3a10-41af-b5e8-294647115f16)  
+  <a href="https://wakatime.com/@691f43ed-3a10-41af-b5e8-294647115f16"><img src="https://wakatime.com/badge/user/691f43ed-3a10-41af-b5e8-294647115f16.svg" alt="Total time coded since Dec 23 2021" /></a>
 </p>
 
 <p align="center">
