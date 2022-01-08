@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 # Hola, Soy Humberto Rivero 👋
 
-Programador front-end autodidacta, manejo tecnologias como HTML, CSS, Javascript y React
+Soy una persona comprometida con mi trabajo, proactiva, empática y
+responsable, me apasiona lo que hago y lo disfruto, sé que puedo desempeñar
+muy bien mis tareas.
 
 <h3>Encuentrenme en:</h3>
 
