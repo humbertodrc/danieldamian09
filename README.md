@@ -51,7 +51,7 @@ tasks very well.
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=danieldamian09&show_icons=true&theme=tokyonight" />
  </p>
 
- <h3>Lenguajes y Herramientas:</h3>
+ <h3>Languages and Tools</h3>
    <p>
         <img align="left" alt="html" width="22px"
           src="https://user-images.githubusercontent.com/63797901/137369294-0b979342-4f21-4b35-a58c-71df5edced2d.png"
