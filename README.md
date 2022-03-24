@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hola, Soy Humberto Rivero 👋
+# Hi, my name is Humberto Rivero 👋
 
-Soy una persona comprometida con mi trabajo, proactiva, empática y
-responsable, me apasiona lo que hago y lo disfruto, sé que puedo desempeñar
-muy bien mis tareas.
+I am a person committed to my work, proactive, empathetic and responsible, I
+am passionate about what I do and I enjoy it, I know that I can perform my
+tasks very well.
 
-<h3>Encuentrenme en:</h3>
+<h3>Find me at:</h3>
 
 <p>
     <a href="https://humbertorivero.netlify.app/">
