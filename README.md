@@ -40,10 +40,7 @@ tasks very well.
   <br>
   <br>
   
-   <video onloadedmetadata="this.muted=true" autoplay loop controls>
-    <source src="https://user-images.githubusercontent.com/63797901/173156712-b3e7dea7-abbb-4a8f-b1fa-0de58961a961.mp4">
-  </video>
-  
+    
 <p align="center">
   <a href="https://wakatime.com/@691f43ed-3a10-41af-b5e8-294647115f16"><img src="https://wakatime.com/badge/user/691f43ed-3a10-41af-b5e8-294647115f16.svg" alt="Total time coded since Dec 23 2021" /></a>
 </p>
