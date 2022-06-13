@@ -40,6 +40,14 @@ tasks very well.
   <br>
   <br>
   
+<!--   ![next-js](https://user-images.githubusercontent.com/63797901/173429379-e81bda30-7aea-4687-93d8-70e2b01f18bd.png) -->
+
+  <p align="center">
+    <img align="center" src="https://user-images.githubusercontent.com/63797901/173429379-e81bda30-7aea-4687-93d8-70e2b01f18bd.png" />
+</p>
+  
+  <br>
+  <br>
     
 <p align="center">
   <a href="https://wakatime.com/@691f43ed-3a10-41af-b5e8-294647115f16"><img src="https://wakatime.com/badge/user/691f43ed-3a10-41af-b5e8-294647115f16.svg" alt="Total time coded since Dec 23 2021" /></a>
@@ -52,7 +60,7 @@ tasks very well.
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=danieldamian09&show_icons=true&theme=tokyonight" />
  </p>
 
- <h3>Languages and Tools</h3>
+  <!--<h3>Languages and Tools</h3>
    <p>
         <img align="left" alt="html" width="22px"
           src="https://user-images.githubusercontent.com/63797901/137369294-0b979342-4f21-4b35-a58c-71df5edced2d.png"
@@ -89,7 +97,7 @@ tasks very well.
           style="max-width: 100%;">
     </p>
     <br>
-    <br>
+    <br>-->
   <!--<p align="center">
       <img align="center" alt="developer" src="https://user-images.githubusercontent.com/63797901/137372016-b5a1c94c-75a8-46b9-afa1-ea3893e094a3.gif">
   </p>-->
