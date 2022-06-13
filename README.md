@@ -15,13 +15,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, my name is Humberto Rivero 👋
+<!-- # Hi, my name is Humberto Rivero 👋
 
 I am a person committed to my work, proactive, empathetic and responsible, I
 am passionate about what I do and I enjoy it, I know that I can perform my
-tasks very well.
+tasks very well. -->
 
-<h3>Find me at:</h3>
+
+
+<!-- ![presentacion-github](https://user-images.githubusercontent.com/63797901/173430299-fa36076e-564a-4e10-8442-f1c45ed65fc9.png) -->
+
+
+  <p align="center">
+    <img align="center" src="https://user-images.githubusercontent.com/63797901/173430299-fa36076e-564a-4e10-8442-f1c45ed65fc9.png" />
+</p>
+  
+  <br>
+  <br>
+  
+     
+<p align="center">
+  <a href="https://wakatime.com/@691f43ed-3a10-41af-b5e8-294647115f16"><img src="https://wakatime.com/badge/user/691f43ed-3a10-41af-b5e8-294647115f16.svg" alt="Total time coded since Dec 23 2021" /></a>
+</p>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldamian09&layout=compact&theme=tokyonight" />
+</p>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=danieldamian09&show_icons=true&theme=tokyonight" />
+ </p>
+ 
+  <h3>Find me at:</h3>
 
 <p>
     <a href="https://humbertorivero.netlify.app/">
@@ -39,26 +63,6 @@ tasks very well.
   </p>
   <br>
   <br>
-  
-<!--   ![next-js](https://user-images.githubusercontent.com/63797901/173429379-e81bda30-7aea-4687-93d8-70e2b01f18bd.png) -->
-
-  <p align="center">
-    <img align="center" src="https://user-images.githubusercontent.com/63797901/173429379-e81bda30-7aea-4687-93d8-70e2b01f18bd.png" />
-</p>
-  
-  <br>
-  <br>
-    
-<p align="center">
-  <a href="https://wakatime.com/@691f43ed-3a10-41af-b5e8-294647115f16"><img src="https://wakatime.com/badge/user/691f43ed-3a10-41af-b5e8-294647115f16.svg" alt="Total time coded since Dec 23 2021" /></a>
-</p>
-
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldamian09&layout=compact&theme=tokyonight" />
-</p>
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=danieldamian09&show_icons=true&theme=tokyonight" />
- </p>
 
   <!--<h3>Languages and Tools</h3>
    <p>
