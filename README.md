@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- # Hi, my name is Humberto Rivero 👋
+# Hi, my name is Humberto Rivero 👋
 
-I am a person committed to my work, proactive, empathetic and responsible, I
+I am a committed person to my work, proactive, empathetic and responsible, I
 am passionate about what I do and I enjoy it, I know that I can perform my
-tasks very well. -->
+tasks very well. 
 
 
 
@@ -64,7 +64,7 @@ tasks very well. -->
   <br>
   <br>
 
-  <!--<h3>Languages and Tools</h3>
+  <h3>Languages and Tools</h3>
    <p>
         <img align="left" alt="html" width="22px"
           src="https://user-images.githubusercontent.com/63797901/137369294-0b979342-4f21-4b35-a58c-71df5edced2d.png"
@@ -101,7 +101,7 @@ tasks very well. -->
           style="max-width: 100%;">
     </p>
     <br>
-    <br>-->
+    <br>
   <!--<p align="center">
       <img align="center" alt="developer" src="https://user-images.githubusercontent.com/63797901/137372016-b5a1c94c-75a8-46b9-afa1-ea3893e094a3.gif">
   </p>-->
